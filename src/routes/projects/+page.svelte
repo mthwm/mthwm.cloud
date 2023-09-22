@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Projects</title>
+	<title>mthwm ~ projects</title>
 	<meta name="description" content="My projects" />
 </svelte:head>
 

@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-	<title>home ~ mthwm</title>
+	<title>mthwm ~ home</title>
 	<meta name="description" content="mthwm personal website" />
 </svelte:head>
 
