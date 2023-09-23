@@ -30,7 +30,6 @@
                     lastShower = data;          
                 });
         }
-        
 
         const now = Math.floor(Date.now() / 1000);
         const secondsSinceLastShower = now - lastShower;
